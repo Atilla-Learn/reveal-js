@@ -1,6 +1,6 @@
 # Talk Reveal.js
 
-### Lundi A février 2016
+### Lundi 1 février 2016
 
 Présentée par Antoine Girard.
 
