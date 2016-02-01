@@ -2,7 +2,7 @@
 
 ### Lundi 1 février 2016
 
-Présentée par Antoine Girard.
+Présenté par Antoine Girard.
 
 ## Description
 
